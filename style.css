@@ -71,5 +71,8 @@ body {
     align-items: center;
     justify-content: center;
 }
-
+footer{
+    margin-top: 550px;
+    text-align: center;
+}
 
